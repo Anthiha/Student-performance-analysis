@@ -32,6 +32,23 @@ This project analyzes multiple datasets from Kaggle to explore how data analytic
 - Moderate stress, motivation for career, and participation in extracurriculars boost results.
 - Social media usage above 2h/day is negatively correlated with grades.
 
+## 📄 Final Report
+
+You can find the main analysis and findings in the PDF report:
+
+📎 `report/Can data analytics and AI reshape and optimize learning in education.pdf`
+
+## 📈 Example Visualizations
+
+Some visualizations are included in the `/figures` directory, such as correlation heatmaps, bar charts by parental education, and more.
+
+## 🚀 Future Work
+
+- Add machine learning models (e.g., decision trees, logistic regression)
+- Build an interactive dashboard (Streamlit or Dash)
+- Extend dataset with more countries/schools
+
+  
 ## 📝 Author
 
 Anthí Papadoúli — MSc in Computer Science, BSc in Physics

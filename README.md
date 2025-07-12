@@ -40,7 +40,7 @@ You can find the main analysis and findings in the PDF report:
 
 ## Example Visualizations
 
-Some visualizations are included in the `/figures` directory, such as correlation heatmaps, bar charts by parental education, and more.
+Some visualizations are included, such as correlation heatmaps, bar charts by parental education, and more.
 
 ##  Future Work
 
